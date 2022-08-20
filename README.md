@@ -1,4 +1,4 @@
-# Higher-order-Network
+# Higher-Order-Network
 
 This is a collection of research about higher-order network (continuously updated).
 
