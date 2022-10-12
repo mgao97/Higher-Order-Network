@@ -14,6 +14,8 @@ This is a collection of research about higher-order network (continuously update
 # 2. Higher-Order Interaction Modeling
 
 # 3. Important Higher-Order Structure———— Cycles, Cliques and Cavities
+- Lee G, Ko J, Shin K. Hypergraph motifs: concepts, algorithms, and discoveries[J]. Proceedings of the VLDB Endowment, 2020, 13(12): 2256-2269.
+- Li X, Cheng R, Chang K C C, et al. On analyzing graphs with motif-paths[J]. Proceedings of the VLDB Endowment, 2021, 14(6): 1111-1123.
 
 # 4. Important Node(s) Identification in Higher-Order Interaction Networks
 
@@ -24,3 +26,20 @@ This is a collection of research about higher-order network (continuously update
 - Xu Y, Rockmore D, Kleinbaum A M. Hyperlink prediction in hypernetworks using latent social features[C]//International Conference on Discovery Science. Springer, Berlin, Heidelberg, 2013: 324-339. [paper link](https://faculty.tuck.dartmouth.edu/images/uploads/faculty/adam-kleinbaum/HyperlinkPrediction.pdf)
 - Li D, Xu Z, Li S, et al. Link prediction in social networks based on hypergraph[C]//Proceedings of the 22nd international conference on world wide web. 2013: 41-42. [paper link](http://telemedicina.unifesp.br/pub/Events/2013-05%20-%20WWW2013/www2013/www2013.org/companion/p41.pdf)
 
+# 6. Community Detection in Higher-Order Interaction Networks
+- Hu L, Pan X, Yan H, et al. Exploiting higher-order patterns for community detection in attributed graphs[J]. Integrated Computer-Aided Engineering, 2021, 28(2): 207-218.
+- Li P Z, Huang L, Wang C D, et al. Community detection by motif-aware label propagation[J]. ACM Transactions on Knowledge Discovery from Data (TKDD), 2020, 14(2): 1-19.
+- Kumar S, Panda B S, Aggarwal D. Community detection in complex networks using network embedding and gravitational search algorithm[J]. Journal of Intelligent Information Systems, 2021, 57(1): 51-72.
+- Huang L, Wang C D, Chao H Y. HM-Modularity: A harmonic motif modularity approach for multi-layer network community detection[J]. IEEE Transactions on Knowledge and Data Engineering, 2019, 33(6): 2520-2533.
+- Chien I E, Lin C Y, Wang I H. On the minimax misclassification ratio of hypergraph community detection[J]. IEEE Transactions on Information Theory, 2019, 65(12): 8095-8118.
+- Li P Z, Huang L, Wang C D, et al. Edmot: An edge enhancement approach for motif-aware community detection[C]//Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining. 2019: 479-487.
+- Huang L, Chao H Y, Xie Q. MuMod: A micro-unit connection approach for hybrid-order community detection[C]//Proceedings of the AAAI conference on artificial intelligence. 2020, 34(01): 107-114.
+- Amburg I, Veldt N, Benson A. Clustering in graphs and hypergraphs with categorical edge labels[C]//Proceedings of The Web Conference 2020. 2020: 706-717.
+- Takai Y, Miyauchi A, Ikeda M, et al. Hypergraph clustering based on pagerank[C]//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020: 1970-1978.
+- Huang L, Wang C D, Chao H Y. HM-Modularity: A harmonic motif modularity approach for multi-layer network community detection[J]. IEEE Transactions on Knowledge and Data Engineering, 2019, 33(6): 2520-2533.
+- Gao Y, Yu X, Zhang H. Graph clustering using triangle-aware measures in large networks[J]. Information Sciences, 2022, 584: 618-632.
+- Gao Y, Zhang H, Yu X. Higher-Order Community Detection: On Information Degeneration and Its Elimination[J]. IEEE/ACM Transactions on Networking, 2022.
+- Li C, Tang Y, Tang Z, et al. Motif‐based embedding label propagation algorithm for community detection[J]. International Journal of Intelligent Systems, 2022, 37(3): 1880-1902.
+
+# Hypergraph reconstruction
+- Young J G, Petri G, Peixoto T P. Hypergraph reconstruction from network data[J]. Communications Physics, 2021, 4(1): 1-11.
