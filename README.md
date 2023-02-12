@@ -118,4 +118,3 @@ Ghoshal, G., Zlatic, V., Caldarelli, G. & Newman, M. E.. Physical Review E 79, 0
 - Giusti, Chad, Robert Ghrist, and Danielle S. Bassett. "Two’s company, three (or more) is a simplex." Journal of computational neuroscience 41.1 (2016): 1-14.
 - Sizemore, Ann E., Chad Giusti, Ari Kahn, Jean M. Vettel, Richard F. Betzel, and Danielle S. Bassett. "Cliques and cavities in the human connectome." Journal of computational neuroscience 44, no. 1 (2018): 115-145.
 - Lynn, Christopher W., and Danielle S. Bassett. "The physics of brain network structure, function and control." Nature Reviews Physics 1, no. 5 (2019): 318-332.
-- Lynn, Christopher W., and Danielle S. Bassett. "The physics of brain network structure, function and control." Nature Reviews Physics 1, no. 5 (2019): 318-332.
