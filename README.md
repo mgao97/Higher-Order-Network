@@ -80,7 +80,8 @@ Ghoshal, G., Zlatic, V., Caldarelli, G. & Newman, M. E.. Physical Review E 79, 0
 - Saebi, Mandana et al. “HONEM: Learning Embedding for Higher Order Networks.” Big data 8 4 (2020): 255-269 .
 - Huang, Jie et al. “Hyper2vec: Biased Random Walk for Hyper-network Embedding.” DASFAA (2019).
 - Zhang, Ruochi et al. “Hyper-SAGNN: a self-attention based graph neural network for hypergraphs.” ICLR (2020): n. pag.
-- Bai S, Zhang F, Torr P H S. Hypergraph convolution and hypergraph attention[J]. Pattern Recognition, 2021, 110: 107637. 
+- Bai S, Zhang F, Torr P H S. Hypergraph convolution and hypergraph attention[J]. Pattern Recognition, 2021, 110: 107637.
+- Choe M, Kim S, Yoo J, et al. Classification of edge-dependent labels of nodes in hypergraphs[C]//Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023: 298-309.
 
 # 9. Hypergraph spreading
 - Iacopini, Iacopo, Giovanni Petri, Alain Barrat, and Vito Latora. 2019NC "Simplicial models of social contagion."
